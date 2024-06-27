@@ -1,4 +1,4 @@
-# Modernize Legacy Applications to Kubernetes with Konveyor - docs for talk at devconf.cz 202
+# Modernize Legacy Applications to Kubernetes with Konveyor - docs for talk at devconf.cz 2024
 
 Konveyor project main page: https://konveyor.io
 
